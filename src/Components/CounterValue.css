@@ -1,0 +1,11 @@
+.heading{
+    margin-bottom: 0;    
+}
+.counterValue{
+    display: inline-block;
+    text-align: left;
+    margin-right: 60px;
+}
+.counterValue p{
+    margin : 0;
+}
